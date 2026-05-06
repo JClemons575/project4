@@ -1,0 +1,63 @@
+/*Background for entire page */
+body {
+    background-color: #e6f2ff;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+/* Header styling */
+h1 {
+    font-size: 42px;
+    color: #003366;
+    margin-bottom: 15px;
+}
+
+h2{
+    font-size: 32px;
+    color: #660000;
+    margin-top: 25px;
+}
+
+h3 {
+   font-size:26px ; 
+   color: beige;
+   margin-top: 25px;
+}
+
+/* Paragraph styling */
+p {
+    font-size: 18px;
+    color: #000;
+    line-height: 1.6;
+    margin-bottom: 15px;
+}
+
+/*List styling */
+ul li {
+    font-size: 18px;
+    color: #036;
+    margin-bottom: 6px;
+    padding-left: 5px;
+}
+/* Image centering */
+.center-img {
+    display: block;
+    margin: 20px auto;
+}
+/*Table styling */
+table {
+    border-collapse: collapse;
+    width: 60%;
+    margin-top: 15px;
+}
+table th, table td {
+    border: 2px solid #003366; /* boxes around each cell */
+    padding: 10px;
+    text-align: left;
+    font-size: 18px;
+}
+table th {
+    background-color: aquamarine;
+    color:#660000
+}
